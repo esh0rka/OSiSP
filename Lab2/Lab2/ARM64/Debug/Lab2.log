@@ -1,0 +1,5 @@
+﻿  Lab2.cpp
+\\Mac\Home\Documents\Projects\OSiSP\Lab2\Lab2\Lab2.cpp(96,27): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+\\Mac\Home\Documents\Projects\OSiSP\Lab2\Lab2\Lab2.cpp(151,36): warning C4244: инициализация: преобразование "LRESULT" в "int", возможна потеря данных
+\\Mac\Home\Documents\Projects\OSiSP\Lab2\Lab2\Lab2.cpp(216,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
+  Lab2.vcxproj -> \\Mac\Home\Documents\Projects\OSiSP\Lab2\ARM64\Debug\Lab2.exe

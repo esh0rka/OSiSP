@@ -1,0 +1,6 @@
+﻿  GameData.cpp
+  Lab1.cpp
+\\Mac\Home\Documents\Projects\OSiSP\Lab1\Lab1\Lab1.cpp(77,20): warning C4312: приведение типов: преобразование из "int" в "HMENU" большего размера
+\\Mac\Home\Documents\Projects\OSiSP\Lab1\Lab1\Lab1.cpp(130,4): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+  Создание кода...
+  Lab1.vcxproj -> \\Mac\Home\Documents\Projects\OSiSP\Lab1\ARM64\Debug\Lab1.exe
